@@ -29,8 +29,6 @@
 ---
 
 ## 📬 Connect with Me
-
-## 🎨 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/sukhada-pangu-1b2808333" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
