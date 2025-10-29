@@ -30,19 +30,22 @@
 
 ## 📬 Connect with Me
 
+## 🎨 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/sukhada-pangu-1b2808333" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/simplified_learner" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@YOURCHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+<a href="https://www.linkedin.com/in/sukhada-pangu-1b2808333" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/simplified_learner" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.youtube.com/@YOURCHANNEL" target="_blank">
+<img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 </p>
 
----
 
 ## 🛠️ Languages & Tools
 
